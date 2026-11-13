@@ -204,4 +204,4 @@ This repository serves as the official landing page for Star Trucker. The softwa
 **Get the most recent version of Star Trucker today!**
 
 ---
-**Last updated:** 2026-11-12 21:44:09 UTC
+**Last updated:** 2026-11-13 02:24:20 UTC
